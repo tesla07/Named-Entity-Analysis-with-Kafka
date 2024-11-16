@@ -78,4 +78,3 @@ sudo systemctl start kibana.service
   c. Start logstash using the conf file as follows<br>
     sudo /usr/share/logstash/bin/logstash -f  /etc/logstash/conf.d/logstash-kafka.conf
 
-
